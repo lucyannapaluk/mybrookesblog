@@ -8,7 +8,7 @@ header_feature_image: ../uploads/img_0097.png
 published: true
 tags: null
 description: null
-show: false
+show: true
 ---
 # About - Who?
 
