@@ -4,7 +4,7 @@ title: "About "
 subtitle: Journotype - Who, Why and What.
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+header_feature_image: ../uploads/img_0097.png
 published: true
 tags: null
 description: null
@@ -12,7 +12,7 @@ show: false
 ---
 # About - Who?
 
-Hi. My name is Lucyanna Paluk. I am currently studying Media, Journalism and Publishing at Oxford Brookes University. My hobbies and interests include going for coffee (a hazlenut latte), spending time with my (3!) cats, going on spontaneous adventures with friends, reading, walking in cites i've never been to before and, of course, writing. I am particualrly interested in writing about food, travel, the Environment, huge wordly issues such as Poverty and Feminism, Space and all things to do with animals.
+Hi. My name is Lucyanna Paluk. I am currently studying Media, Journalism and Publishing at Oxford Brookes University. My hobbies and interests include going for coffee (a hazlenut latte), spending time with my (3!) cats, going on spontaneous adventures with friends, reading, travelling, walking in cites i've never been to before and, of course, writing. I am particualrly interested in writing about food, travel, the Environment, huge wordly issues such as Poverty and Feminism, Space and all things to do with animals.
 
 ## About - Why?
 
