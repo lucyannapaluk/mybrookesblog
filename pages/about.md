@@ -20,4 +20,4 @@ Looking back on my early years, I don't recall wanting to be anything other than
 
 ### About - What?
 
-My goal for this blog is to be a educational, inspirational source of knowledge but also a place of leisure. I will be focusing particularly on the typographical design of magazines, newspapers and other journalistic formats such as Vogue, The Daily Mail and The Guardian. I will be analysing the fonts and the typographical voice they convey. Are they low contrast? Serifs? Tentative or emphatic? Luxury or squalor? Rigid or casual? I will be searching through these formats to find what voice they are trying to communicate.
+My goal for this blog is to be an educational, inspirational source of knowledge but also a place of leisure. I will be focusing particularly on the typographical design of magazines, newspapers and other journalistic formats such as Vogue, The Daily Mail and The Guardian. I will be analysing the fonts and the typographical voice they convey. Are they low contrast? Serifs? Tentative or emphatic? Luxury or squalor? Rigid or casual? I will be searching through these formats to find what voice they are trying to communicate.
