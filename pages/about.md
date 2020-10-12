@@ -4,7 +4,7 @@ title: About this blog
 subtitle: Journotype - Who, Why and What.
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/img_0097.png
+header_feature_image: ../uploads/the-fonts-that-tell-a-story.-7.png
 published: true
 tags: null
 description: null
