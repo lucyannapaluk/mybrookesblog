@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About "
+title: About this blog
 subtitle: Journotype - Who, Why and What.
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
