@@ -5,8 +5,8 @@ header_text: "The Media: how the typography conveys a story"
 footer_text: Copyright 2020 Lucyanna Paluk
 header_feature_image: ../uploads/bruno-martins-ohjmwb4xwle-unsplash.jpg
 bannerheight: 20vmax
-logo: /uploads/logo.jpg
-favicon: /uploads/favicon.ico
+logo: ../uploads/journo-type-logo.png
+favicon: ../uploads/favicon-16x16.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
