@@ -5,6 +5,7 @@ date: 2020-10-19T16:27:36.440Z
 header_feature_image: ../uploads/nat-geo-1.jpg
 caption: ""
 comments: true
+tags: null
 ---
 One of my all-time favourite magazines has to be National Geographic. It is enriched in culture and knowledge that is unrivalled by any other publication. The magazine primarily focuses on geography, history, science, global culture and exploration while featuring ground-breaking, and often award winning, photographs.
 
@@ -23,3 +24,7 @@ An interesting, repetitive component of the typography is the cover text and yel
 ![Image from DaFont](../uploads/nat-geo-4-.jpg)
 
 Throughout an issue, the editors use various fonts for different components of the magazine. For example, [the captions](http://587.claudiastrong.com/national-geographic-typography/) under photographs and images have their own specific typography. They use a sans serif without lines which is sometimes bolded. This differs to the main body text font and other fonts that are used throughout. This is effective as it captures the attention of the reader because it creates a break in the reading style they were used to. Underneath the caption there is another line of text – the photo credits. This is also in another form of font as it is smaller and in capital letters. Again, this creates a break in the text for the reader which allows them to realise this is separate part of text.
+
+The publication also uses various sizes within its typography. It exercises this by using a big font for the first letter at the beginning of a new story or feature. This lets readers know a new article is beginning. 
+
+![Image from Nature Pictures - Blogger](../uploads/nat-geo-5.jpg)
