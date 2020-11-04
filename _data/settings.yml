@@ -10,3 +10,6 @@ favicon: ../uploads/favicon-16x16.png
 gridlayout: true
 fixednavbar: true
 upzoom: true
+items:
+  - name: About the author
+    siteurl: https://journotype.netlify.app/aboutme
