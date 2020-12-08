@@ -5,7 +5,7 @@ date: 2020-12-08T21:06:24.959Z
 header_feature_image: ../uploads/vf.png
 comments: true
 ---
-<http://587.claudiastrong.com/vanity-fair-typography-2/ > Being a religious magazine reader, I knew I had to research into the revived, glorious publication Vanity Fair. Vanity Fair is a monthly magazine of popular culture, fashion, celebrities, politics and current affairs. It is published by Conde Nast in the United States but currently publishes five international editions worldwide. The magazine was first published from 1913 to 1936 but was pulled. The imprint was birthed the ‘modern Vanity Fair’ in 1983 and was revived into what we now read. 
+[ ](<http://587.claudiastrong.com/vanity-fair-typography-2/ >)Being a religious magazine reader, I knew I had to research into the revived, glorious publication Vanity Fair. Vanity Fair is a monthly magazine of popular culture, fashion, celebrities, politics and current affairs. It is published by Conde Nast in the United States but currently publishes five international editions worldwide. The magazine was first published from 1913 to 1936 but was pulled. The imprint was birthed the ‘modern Vanity Fair’ in 1983 and was revived into what we now read. 
 
  The publication uses various types of typography and imagery to convey the personality and style of the magazine. For example, on the website they primarily use back, red and white lettering. This simplistic, elegant approach reflects the content they produce and the audience they cater and advertise to. The embedded, subtle red that underlines headings and envelopes symbols conveys a modern, more professional look which could symbolise their desired target audience. 
 
